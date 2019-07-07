@@ -1,0 +1,1 @@
+My machine learning code is contained in the Internet_ads.ipynb. The dataset is downloaded from the UCI repository and can be accessed here - "https://archive.ics.uci.edu/ml/datasets/Spambase".
